@@ -1,4 +1,4 @@
- <h1 align="center"> 𖣘𝑴𝑨𝑿𝑾𝑬𝑳𝑳-𝑴𝑫♡●</h1> 
+ <h1 align="center"> Abdulbasit-MD●</h1> 
 <p align="center"> Introducing Mcross_Md, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
 <p align="center">
@@ -96,7 +96,7 @@
 
 
 - Star ⭐ repo if you like this bot.
-- If any problem, then [`+2349042566473`](https://wa.me/2349042566473)
+- If any problem, then [`+2349069419329`](https://wa.me/2349069419329)
 
 
 ### Thanks To
