@@ -23,8 +23,8 @@ global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://te
 
 
 global.devs = "2349120730021" // Developer Contact
-global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "2349120730021";
-global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "2349120730021";
+global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "2349069419329";
+global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "2349069419329";
 
 
 
@@ -60,15 +60,15 @@ module.exports = {
 
   menu: process.env.MENU || "1", /**  Available @MENU @Schemes 1: Aztec_Md, 2: A17_Md, 3: Suhail-Md Default ---------- If Not Choose then it Randomely Pic One Of Them Each time **/
 
-  HANDLERS : process.env.PREFIX || "✅",
+  HANDLERS : process.env.PREFIX || "!",
   BRANCH : process.env.BRANCH   || "main",
   VERSION : process.env.VERSION || "V.1.2.8",
-  caption : process.env.CAPTION || "✙𖣘𝑴𝑨𝑿𝑾𝑬𝑳𝑳-𝑴𝑫♡●✙" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
+  caption : process.env.CAPTION || "Abdulbasit-MD" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴜʜᴀɪʟ²²¹-ᴍᴅ 』```", //*『sᴜʙsᴄʀɪʙᴇ • sᴜʜᴀɪʟ ᴛᴇᴄʜ』*\n youtube.com/@suhailtechinfo0"),
  
-  author: process.env.PACK_AUTHER || "𖣘𝑴𝑨𝑿𝑾𝑬𝑳𝑳",
+  author: process.env.PACK_AUTHER || "Abdulbasit-MD",
   packname: process.env.PACK_NAME || "₭ł₦₲ ₥₵ⱤØ₴₴",
-  botname : process.env.BOT_NAME  || "⫷𝑴𝑨𝑿𝑾𝑬𝑳𝑳-𝑴𝑫⫸",
-  ownername:process.env.OWNER_NAME|| "𖣘𝑴𝑨𝑿𝑾𝑬𝑳𝑳-𝑴𝑫♡●",
+  botname : process.env.BOT_NAME  || "⫷Abdulbasit-MD⫸",
+  ownername:process.env.OWNER_NAME|| "Abdulbasit-MD♡●",
 
   sessionName:process.env.SESSION_ID|| "",  // PUT SESSION ID HERE 
   errorChat: process.env.ERROR_CHAT || "",
