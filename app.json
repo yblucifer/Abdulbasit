@@ -1,6 +1,6 @@
 {
-  "name": "𖣘𝑴𝑨𝑿𝑾𝑬𝑳𝑳-𝑴𝑫♡●",
-  "description": "I am Maxwell-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : https://wa.me/2349120730021",
+  "name": "Abdulbasit-MD",
+  "description": "I am Abdulbasit-MD Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : https://wa.me/2349120730021",
   "logo": "https://telegra.ph/file/ac60b32f3fcb180747985.jpg",
   "keywords": ["whatsappbot", "mcrossMd", "mcross Md bot", "mcross-Md", "mcrossMdWhatsaooBot", "McrossWaBot","McrossMD","Mcross Md Whatsapp Bot","multi device"],
   "success_url": "/mcross/",
@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",    
-      "value": "𖣘𝑴𝑨𝑿𝑾𝑬𝑳𝑳-𝑴𝑫♡●",
+      "value": "Abdulbasit-MD",
       "required" :true
     },   
      
@@ -27,12 +27,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "☛𖣘𝑴𝑨𝑿𝑾𝑬𝑳𝑳-𝑴𝑫♡●♅☚"
+      "value": "Abdulbasit-MD"
     }, 
     "IMAGE": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/ac60b32f3fcb180747985.jpg"
+      "value": "https://telegra.ph/file/6941f94eed69964353ed6.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -128,12 +128,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "✯𖣘𝑴𝑨𝑿𝑾𝑬𝑳𝑳-𝑴𝑫♡●✯",
+      "value": "Abdulbasit-MD",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "彡𖣘𝑴𝑨𝑿𝑾𝑬𝑳𝑳-𝑴𝑫♡●彡",
+      "value": "Abdulbasit-MD",
       "required": false 
     }
   }, 
