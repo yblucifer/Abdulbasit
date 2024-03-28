@@ -61,12 +61,12 @@
     }, 
     "HEROKU_API_KEY": {
       "description": "Put Your Heroku Api Key Here",
-      "value": "a272ee0a-a2f7-4cd8-93c1-6b0a0f9c4ee3",
+      "value": "bdb7ef6d-dd36-48b6-a72b-b17042ac52a3",
       "required" :true 
     },   
     "HEROKU_APP_NAME": {
       "description": "Put Your Heroku App Name Here",
-      "value": "maxwellwhatsappbot",
+      "value": "",
     "required" :true
     }, 
     "WAPRESENCE": {
